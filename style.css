@@ -14,7 +14,32 @@ ul{
     background-color: #36454f;
     align-items: center;
     padding: 10px 20px;
+
 }
 body{
     font-family: Arial, Helvetica, sans-serifs;
+}
+.body1{
+ /* background-color: #36454f;  */
+ display: flex;
+ justify-content: space-between;
+
+}
+.website{
+    height:200px;
+    width: 300px;
+}
+#logo{
+    border-radius: 50%;
+}
+button{
+    background-color: blue;
+    color: white;
+    border-style: none;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+img{
+    display: flex;
+    align-self: f
 }
