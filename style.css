@@ -121,3 +121,29 @@ h2{
 .card-text{
     font-size: 18px;
 }
+/* quote section */
+.quote-section{
+    background-color: #e5e7eb;
+
+}
+.quote-container{
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.quote{
+    border: 1px solid blue;
+    width: 60%;
+}
+blockquote{
+    font-size: 36px;
+    font-weight: 200;
+    color: #1f2937;
+}
+figcaption{
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 700;
+    font-size: 18px;
+}
