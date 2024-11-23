@@ -165,3 +165,10 @@ figcaption{
 .signup-button{
     border: 1px solid #ffffff;
 }
+ /* footer */
+ .footer{
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
