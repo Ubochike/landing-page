@@ -133,7 +133,7 @@ h2{
     align-items: center;
 }
 .quote{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     width: 60%;
 }
 blockquote{
@@ -146,4 +146,22 @@ figcaption{
     justify-content: flex-end;
     font-weight: 700;
     font-size: 18px;
+}
+/* signup-section */
+.signup-section{
+    min-height: 450px;
+    align-items: center;
+    justify-content: center;
+}
+.signup-container{
+  background-color: #3882f6;
+  display: flex;
+  height: 180px;
+  align-items: center;
+  justify-content: space-around;
+  color: #ffffff;
+  border-radius: 10px;
+}
+.signup-button{
+    border: 1px solid #ffffff;
 }
